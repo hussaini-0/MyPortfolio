@@ -1,0 +1,282 @@
+- generic [active] [ref=f4e1]:
+  - banner [ref=f4e2]:
+    - link "Talal Hussain, home" [ref=f4e3] [cursor=pointer]:
+      - /url: "#top"
+      - generic [ref=f4e4]: TH
+    - link "Start a project ↗" [ref=f4e5] [cursor=pointer]:
+      - /url: https://wa.me/923190009110?text=Hi%20Talal%2C%20I%27d%20like%20to%20discuss%20a%20project.
+  - main [ref=f4e6]:
+    - generic [ref=f4e7]:
+      - generic [ref=f4e8]:
+        - paragraph [ref=f4e9]: Available for selected freelance work
+        - heading [level=1] [ref=f4e11]:
+          - text: I turn complex workflows into
+          - emphasis [ref=f4e12]: clear, working software.
+        - paragraph [ref=f4e13]: Product engineer and SQA specialist building AI systems, operational SaaS, and polished desktop tools—from first workflow to tested release.
+        - generic [ref=f4e14]:
+          - link "View selected work ↓" [ref=f4e15] [cursor=pointer]:
+            - /url: "#work"
+            - text: View selected work
+            - generic [ref=f4e16]: ↓
+          - link "Discuss your project ↗" [ref=f4e17] [cursor=pointer]:
+            - /url: https://wa.me/923190009110?text=Hi%20Talal%2C%20I%27d%20like%20to%20discuss%20a%20project.
+            - text: Discuss your project
+            - generic [ref=f4e18]: ↗
+      - generic "Capabilities overview" [ref=f4e19]:
+        - generic [ref=f4e20]:
+          - generic [ref=f4e21]: Based in Karachi
+          - generic [ref=f4e22]: Working worldwide
+        - generic [aria-hidden] [ref=f4e23]:
+          - generic [ref=f4e26]:
+            - text: IDEA
+            - generic [ref=f4e27]: →
+            - text: PRODUCT
+          - generic [ref=f4e28]: AI
+          - generic [ref=f4e29]: WEB
+          - generic [ref=f4e30]: OPS
+        - generic [ref=f4e31]:
+          - generic [ref=f4e32]: Strategy
+          - generic [ref=f4e34]: Build
+          - generic [ref=f4e36]: QA
+          - generic [ref=f4e38]: Ship
+    - generic "Core capabilities" [ref=f4e39]:
+      - generic [ref=f4e40]:
+        - generic [ref=f4e41]: AI product development
+        - generic [ref=f4e42]: ✦
+        - generic [ref=f4e43]: Full-stack platforms
+        - generic [ref=f4e44]: ✦
+        - generic [ref=f4e45]: Desktop applications
+        - generic [ref=f4e46]: ✦
+        - generic [ref=f4e47]: Workflow automation
+        - generic [ref=f4e48]: ✦
+        - generic [ref=f4e49]: Release-focused QA
+        - generic [ref=f4e50]: ✦
+        - generic [aria-hidden] [ref=f4e51]: AI product development
+        - generic [aria-hidden] [ref=f4e52]: ✦
+        - generic [aria-hidden] [ref=f4e53]: Full-stack platforms
+        - generic [aria-hidden] [ref=f4e54]: ✦
+        - generic [aria-hidden] [ref=f4e55]: Desktop applications
+        - generic [aria-hidden] [ref=f4e56]: ✦
+    - generic [ref=f4e57]:
+      - generic [ref=f4e58]:
+        - generic [ref=f4e59]:
+          - paragraph [ref=f4e60]: 01 / Selected work
+          - heading "Systems with real depth, not demo-page polish." [level=2] [ref=f4e61]: Systems with real depth,not demo-page polish.
+        - paragraph [ref=f4e62]: Each project solves an operational problem across product design, engineering, data, automation, and release readiness.
+      - article [ref=f4e63]:
+        - generic [ref=f4e64]:
+          - paragraph [ref=f4e65]: Logistics SaaS · Multi-platform MVP
+          - heading "Paani" [level=3] [ref=f4e66]
+          - paragraph [ref=f4e67]: A water distribution platform spanning bottled-water sales, 19L subscriptions, delivery operations, and admin reporting.
+          - list [ref=f4e68]:
+            - listitem [ref=f4e69]: Customer, delivery staff, and admin workflows
+            - listitem [ref=f4e70]: NestJS API, PostgreSQL, React dashboard, Flutter app
+            - listitem [ref=f4e71]: Modular foundation for bulk supply and provider expansion
+          - generic [ref=f4e72]:
+            - generic [ref=f4e73]: NestJS
+            - generic [ref=f4e74]: Flutter
+            - generic [ref=f4e75]: PostgreSQL
+            - generic [ref=f4e76]: React
+        - generic [ref=f4e77]:
+          - img "Paani water-delivery website homepage" [ref=f4e78]
+          - generic [ref=f4e79]: Product website · Karachi
+      - article [ref=f4e80]:
+        - generic [ref=f4e81]:
+          - paragraph [ref=f4e82]: AI EdTech · Web + Windows desktop
+          - heading "TutorMate AI" [level=3] [ref=f4e83]
+          - paragraph [ref=f4e84]: An adaptive tuition teacher that explains homework, creates quizzes, tracks weak topics, and gives parents a clear progress view.
+          - list [ref=f4e85]:
+            - listitem [ref=f4e86]: Image and PDF homework analysis with guided explanations
+            - listitem [ref=f4e87]: Structured quiz generation, marking, and revision packs
+            - listitem [ref=f4e88]: Electron desktop packaging with private local persistence
+          - generic [ref=f4e89]:
+            - generic [ref=f4e90]: Next.js
+            - generic [ref=f4e91]: OpenAI
+            - generic [ref=f4e92]: Electron
+            - generic [ref=f4e93]: Prisma
+        - generic [ref=f4e95]:
+          - generic [ref=f4e96]: TutorMate AI
+          - generic [ref=f4e101]:
+            - complementary [ref=f4e102]:
+              - generic [ref=f4e103]: TM
+            - generic [ref=f4e108]:
+              - text: MATHEMATICS · ALGEBRA
+              - heading "Let’s solve it step by step." [level=4] [ref=f4e109]: Let’s solve itstep by step.
+              - generic [ref=f4e110]: 2x + 6 = 18
+              - generic [ref=f4e111]: What should we do first?
+              - generic [ref=f4e114]:
+                - generic [ref=f4e115]: Subtract 6
+                - generic [ref=f4e116]: Divide by 2
+      - article [ref=f4e117]:
+        - generic [ref=f4e118]:
+          - paragraph [ref=f4e119]: Commerce + WhatsApp operations
+          - heading "PPDS" [level=3] [ref=f4e120]
+          - paragraph [ref=f4e121]: A software-services storefront and production-minded WhatsApp sales system with controlled payment review and secure product delivery.
+          - list [ref=f4e122]:
+            - listitem [ref=f4e123]: CMS-managed products, packages, pages, and enquiries
+            - listitem [ref=f4e124]: Customer checkout, order tracking, and encrypted credentials
+            - listitem [ref=f4e125]: Deterministic sales workflow with constrained AI orchestration
+          - generic [ref=f4e126]:
+            - generic [ref=f4e127]: Next.js
+            - generic [ref=f4e128]: Prisma
+            - generic [ref=f4e129]: Redis
+            - generic [ref=f4e130]: WhatsApp API
+        - generic [ref=f4e131]:
+          - img "PPDS digital-products catalogue interface" [ref=f4e134]
+          - generic [ref=f4e135]: Actual storefront views
+      - article [ref=f4e136]:
+        - generic [ref=f4e137]:
+          - paragraph [ref=f4e138]: Healthcare workforce · Flutter mobile app
+          - heading "NDIMA" [level=3] [ref=f4e139]
+          - paragraph [ref=f4e140]: A healthcare staffing mobile app that brings candidate bookings, shifts, timecards, vacancies, leave, and profile compliance into one worker-facing experience.
+          - list [ref=f4e141]:
+            - listitem [ref=f4e142]: Booking, shift detail, calendar, and signed timecard workflows
+            - listitem [ref=f4e143]: Vacancy discovery, leave requests, and document verification
+            - listitem [ref=f4e144]: Secure local storage, API integration, and push notifications
+          - generic [ref=f4e145]:
+            - generic [ref=f4e146]: Flutter
+            - generic [ref=f4e147]: GetX
+            - generic [ref=f4e148]: Dio
+            - generic [ref=f4e149]: Firebase
+        - generic "Representative NDIMA mobile workflow preview" [ref=f4e150]:
+          - generic [ref=f4e152]:
+            - generic [ref=f4e153]:
+              - generic [ref=f4e154]: 9:41
+              - generic [ref=f4e155]: ● ● ▰
+            - generic [ref=f4e156]:
+              - generic [ref=f4e157]: My shifts
+              - generic [ref=f4e158]: •••
+            - generic [ref=f4e159]:
+              - generic [ref=f4e160]:
+                - text: "12"
+                - generic [ref=f4e161]: MON
+              - generic [ref=f4e162]:
+                - text: "13"
+                - generic [ref=f4e163]: TUE
+              - generic [ref=f4e164]:
+                - text: "14"
+                - generic [ref=f4e165]: WED
+            - generic [ref=f4e166]:
+              - generic [ref=f4e167]: 08:00 — 16:00
+              - generic [ref=f4e168]: Healthcare Assistant
+              - generic [ref=f4e169]: Confirmed shift
+            - generic [ref=f4e170]:
+              - generic [ref=f4e171]: 18:00 — 22:00
+              - generic [ref=f4e172]: Support Worker
+              - generic [ref=f4e173]: Upcoming
+          - generic [ref=f4e175]:
+            - generic [ref=f4e176]:
+              - generic [ref=f4e177]: 9:41
+              - generic [ref=f4e178]: ● ● ▰
+            - img "NDIMA Healthcare" [ref=f4e179]
+            - paragraph [ref=f4e180]: Good morning
+            - heading "Your work, in one place." [level=4] [ref=f4e181]: Your work,in one place.
+            - generic [ref=f4e183]:
+              - generic [ref=f4e184]: Next shift
+              - generic [ref=f4e185]: Today · 08:00
+              - generic [ref=f4e186]: Healthcare Assistant
+            - generic [ref=f4e187]:
+              - generic [ref=f4e188]:
+                - generic [ref=f4e189]: "06"
+                - generic [ref=f4e190]: Bookings
+              - generic [ref=f4e191]:
+                - generic [ref=f4e192]: "02"
+                - generic [ref=f4e193]: Timecards
+            - generic [ref=f4e194]:
+              - generic [ref=f4e195]: ⌂
+              - generic [ref=f4e196]: ▣
+              - generic [ref=f4e197]: ◷
+              - generic [ref=f4e198]: ○
+          - generic [ref=f4e199]: Representative workflow preview
+      - generic [ref=f4e200]:
+        - paragraph [ref=f4e201]: More shipped work
+        - heading "Range, without losing focus." [level=2] [ref=f4e202]
+      - generic [ref=f4e203]:
+        - article [ref=f4e204]:
+          - generic [ref=f4e205]:
+            - img "GymOS management dashboard" [ref=f4e206]
+            - generic [ref=f4e207]: Business SaaS
+          - generic [ref=f4e208]:
+            - generic [ref=f4e209]:
+              - generic [ref=f4e210]: Gym management
+              - heading "GymOS" [level=3] [ref=f4e211]
+            - paragraph [ref=f4e212]: Role-aware operations for members, attendance, payments, renewals, trainer bookings, leads, and reporting.
+            - generic [ref=f4e213]:
+              - generic [ref=f4e214]: React
+              - generic [ref=f4e215]: Express
+              - generic [ref=f4e216]: SQLite
+        - article [ref=f4e217]:
+          - generic [ref=f4e218]:
+            - img "Dentora AI dental receptionist demo" [ref=f4e219]
+            - generic [ref=f4e220]: AI operations
+          - generic [ref=f4e221]:
+            - generic [ref=f4e222]:
+              - generic [ref=f4e223]: Dental clinics
+              - heading "Dentora" [level=3] [ref=f4e224]
+            - paragraph [ref=f4e225]: AI WhatsApp receptionist combining multi-message intake, real slot checks, booking state, reminders, and clinic tooling.
+            - generic [ref=f4e226]:
+              - generic [ref=f4e227]: OpenAI
+              - generic [ref=f4e228]: WhatsApp
+              - generic [ref=f4e229]: PostgreSQL
+        - article [ref=f4e230]:
+          - generic [ref=f4e231]:
+            - img "NOIR perfume 3D product showcase" [ref=f4e232]
+            - generic [ref=f4e233]: Immersive web
+          - generic [ref=f4e234]:
+            - generic [ref=f4e235]:
+              - generic [ref=f4e236]: Luxury commerce
+              - heading "NOIR" [level=3] [ref=f4e237]
+            - paragraph [ref=f4e238]: A black-and-gold perfume showcase with an interactive 3D bottle, product film, fragrance notes, and purchase flow.
+            - generic [ref=f4e239]:
+              - generic [ref=f4e240]: Three.js
+              - generic [ref=f4e241]: 3D
+              - generic [ref=f4e242]: Motion
+    - generic [ref=f4e243]:
+      - generic [ref=f4e244]:
+        - generic [ref=f4e245]:
+          - paragraph [ref=f4e246]: 02 / How I help
+          - heading "From messy process to usable product." [level=2] [ref=f4e247]: From messy processto usable product.
+        - paragraph [ref=f4e248]: I work best where software needs to understand the business—not just display a polished interface.
+      - generic [ref=f4e249]:
+        - article [ref=f4e250]:
+          - generic [ref=f4e251]: "01"
+          - heading "Product engineering" [level=3] [ref=f4e252]
+          - paragraph [ref=f4e253]: Full-stack web and desktop products shaped around the actual user journey, roles, data, and operational constraints.
+          - generic [ref=f4e254]: Web apps · APIs · Desktop · Data
+        - article [ref=f4e255]:
+          - generic [ref=f4e256]: "02"
+          - heading "AI & automation" [level=3] [ref=f4e257]
+          - paragraph [ref=f4e258]: Human-controlled AI workflows for support, education, lead handling, content generation, and internal operations.
+          - generic [ref=f4e259]: LLM integration · Agents · Workflow design
+        - article [ref=f4e260]:
+          - generic [ref=f4e261]: "03"
+          - heading "QA & release readiness" [level=3] [ref=f4e262]
+          - paragraph [ref=f4e263]: Practical quality work across risk analysis, test design, security boundaries, smoke checks, and delivery documentation.
+          - generic [ref=f4e264]: Test strategy · Verification · Hardening
+    - generic [ref=f4e266]:
+      - generic [ref=f4e267]:
+        - paragraph [ref=f4e268]: 03 / About
+        - heading [level=2] [ref=f4e269]:
+          - text: Engineering discipline.
+          - emphasis [ref=f4e270]: Product judgment.
+      - generic [ref=f4e271]:
+        - paragraph [ref=f4e272]: I’m Talal Hussain, a product engineer and SQA specialist based in Karachi. I build systems where software has to coordinate people, data, decisions, and real-world operations.
+        - paragraph [ref=f4e273]: "My work spans AI products, SaaS platforms, commerce, automation, and Windows applications. The common thread is simple: understand the workflow, make the hard parts clear, and leave the product in a state another team can run."
+        - generic [ref=f4e274]:
+          - link "GitHub ↗" [ref=f4e275] [cursor=pointer]:
+            - /url: https://github.com/hussaini-0
+          - link "LinkedIn ↗" [ref=f4e276] [cursor=pointer]:
+            - /url: https://www.linkedin.com/in/talal-hussain-4147a9229/
+    - generic [ref=f4e277]:
+      - paragraph [ref=f4e278]: Have a workflow that needs better software?
+      - heading [level=2] [ref=f4e279]:
+        - text: Let’s make it
+        - emphasis [ref=f4e280]: work properly.
+      - link "talalhussain00024@gmail.com ↗" [ref=f4e281] [cursor=pointer]:
+        - /url: mailto:talalhussain00024@gmail.com
+        - text: talalhussain00024@gmail.com
+        - generic [ref=f4e282]: ↗
+  - contentinfo [ref=f4e283]:
+    - generic [ref=f4e284]: © 2026 Talal Hussain
+    - link "Back to top ↑" [ref=f4e285] [cursor=pointer]:
+      - /url: "#top"
