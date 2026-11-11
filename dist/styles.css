@@ -58,3 +58,6 @@
 .case-paani .paani-visual img{object-position:left center}
 .paani-note{left:auto;right:20px;bottom:18px;padding:7px 10px;background:rgba(1,15,22,.76);color:#d6faff;border:1px solid rgba(80,219,235,.28);backdrop-filter:blur(8px)}
 @media(max-width:680px){.case-paani .paani-visual{height:260px}.case-paani .paani-visual img{object-position:left center}.paani-note{right:12px;bottom:12px}}
+.project-card-cinematic .project-image img{object-position:left center}
+.project-card-cinematic:hover .project-image img{transform:none}
+@media(max-width:680px){.project-card-cinematic .project-image{height:190px}}
